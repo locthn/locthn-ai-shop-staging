@@ -1,0 +1,4 @@
+Flow ID,Description,Test Steps,Flow Priority
+1,Verify Successful Login and Navigation to Parabank Overview Page,"step 1: Navigate to Page home --> navigate to Page parabank findtrans htm
+step 2: Login at Page parabank findtrans htm --> navigate to Page parabank overview htm
+step 3: Add visual checkpoint at Page parabank overview htm",High
