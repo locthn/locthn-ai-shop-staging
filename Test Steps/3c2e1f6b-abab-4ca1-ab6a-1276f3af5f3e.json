@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home --> navigate to Page parabank overview htm",
+        "step 2: Login at Page parabank overview htm",
+        "step 3: At Page parabank overview htm click on hyperlink parabank openaccount htm --> navigate to Page parabank openaccount htm",
+        "step 4: At Page parabank openaccount htm select on select type",
+        "step 5: At Page parabank openaccount htm select on select fromaccountid",
+        "step 6: At Page parabank openaccount htm submit on form object",
+        "step 7: At Page parabank openaccount htm click on hyperlink parabank transfer htm --> navigate to Page parabank transfer htm",
+        "step 8: Add visual checkpoint at Page parabank transfer htm"
+    ]
+}
